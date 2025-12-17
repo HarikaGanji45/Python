@@ -1,5 +1,5 @@
 # Python
-# 🐍 Python 
+# 🐍 Python Basics
 
 This repository covers **Python fundamentals** from basic syntax up to **functions**, including **for loops**. It is beginner‑friendly and suitable for students, self‑learners, and interview preparation.
 
